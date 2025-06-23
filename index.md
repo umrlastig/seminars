@@ -10,6 +10,7 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 
 [Link to another page](./another-page.html).
 
+<a id="news"></a>
 # September 12, 2025: _Uncertainty and risks_
 
 Sentence of introduction
