@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The **LASTIG lab** is the French leading lab in **Geographic Information sciences**. The lab covers the complete lifecycle of geospatial data from their capture to their visualisation, including modelling, integration & analysis.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+We propose every 2 or 3 months seminars that gather guest keynotes and presentations of lab members/affiliates on a topic at stake. Both mature and on-going works can be featured to stimulate discussions and introduce new lab projects.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Our seminars are free, open to everyone, assuming you are preliminarly registered. In case of questions, feel free to reach us at sem-lastig_(at)_ign_(dot)_fr.
 
 # Header 1
 
