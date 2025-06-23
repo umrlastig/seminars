@@ -1,0 +1,2 @@
+# seminars
+LASTIG open seminars
