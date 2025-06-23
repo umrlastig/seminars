@@ -4,93 +4,57 @@ layout: default
 
 The **LASTIG lab** is the French leading lab in **Geographic Information sciences**. The lab covers the complete lifecycle of geospatial data from their capture to their visualisation, including modelling, integration & analysis.
 
+We propose every 2 or 3 months seminars that gather **guest keynotes** and presentations of **lab members/affiliates** on a topic at stake. Both mature and on-going works can be featured to stimulate discussions and introduce new lab projects.
+
+Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at sem-lastig_(at)_ign_(dot)_fr.
+
 [Link to another page](./another-page.html).
 
-We propose every 2 or 3 months seminars that gather guest keynotes and presentations of lab members/affiliates on a topic at stake. Both mature and on-going works can be featured to stimulate discussions and introduce new lab projects.
+# September 12, 2025: _Uncertainty and risks_
 
-Our seminars are free, open to everyone, assuming you are preliminarly registered. In case of questions, feel free to reach us at sem-lastig_(at)_ign_(dot)_fr.
+Sentence of introduction
 
-# Header 1
+## Keynote speaker
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> Andrei Bursuc, valeo.ai
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Title of the talk
 
-### Header 3
+## Technical talks
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*   _Title_. Jean-Michael Müller
+*   _Title_. Jacques Gautier
+*   _Title_. Arnaud Le Guilcher
+*   _Title_. Alexandre Hipper-Ferrer
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Schedule
+Questions & Answers will be possible after every tal. No worries.
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
+| Time  🕤      | Speaker          | Slides |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+| 9:30           | Andrei Bursuc (Valeo.ai) | TBD  |
+| 10:20 | Jean-Michael Müller (LASTIG)   | TBD  |
+| 10:50 | Jacques Gautier (LASTIG)   | TBD  |
+| 11:20   | Arnaud Le Guilcher (LASTIG)      | TBD   |
+| 11:50 | Alexandre Hipper-Ferrer (LASTIG) | TBD  |
 
 * * *
 
-### Here is an unordered list:
+### Registration
+Registration is mandatory and can be done through this link. Deadline is **September 5, 2025**.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### How to join us ?
 
-### And an ordered list:
+#### On-site
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+#### Remotely
+A zoom link will be sent to your registered email a couple of days prior to the event.
 
-### And a nested list:
+* * *
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+
+
+
 
 ### Small image
 
@@ -101,18 +65,6 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
