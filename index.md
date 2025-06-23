@@ -42,7 +42,7 @@ Questions & Answers will be possible after every tal. No worries.
 * * *
 
 ### Registration
-Registration is mandatory and can be done through this link. Deadline is **September 5, 2025**.
+Registration is mandatory, free of charge and can be done through this link. Deadline is **September 5, 2025**.
 
 ### How to join us ?
 
