@@ -23,7 +23,7 @@ Sentence of introduction
 
 ## Technical talks
 
-*   _Title_. Jean-Michael Müller
+*   _Suivi de déformation d'ouvrages d'art_. Jean-Michael Müller
 *   _Title_. Jacques Gautier
 *   _Title_. Arnaud Le Guilcher
 *   _Title_. Alexandre Hipper-Ferrer
