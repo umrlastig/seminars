@@ -24,9 +24,9 @@ Sentence of introduction
 ## Technical talks
 
 *   _Suivi de déformation d'ouvrages d'art_. Jean-Michael Müller
-*   _Title_. Jacques Gautier
-*   _Title_. Arnaud Le Guilcher
-*   _Title_. Alexandre Hipper-Ferrer
+*   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière._. Jacques Gautier
+*   _Propagation d'incertitudes pour la construction d'itinéraires résilients_. Arnaud Le Guilcher
+*   _''Uncertainties and risks'' in the STRUDEL team : an overview of existing works_. Alexandre Hipper-Ferrer
 
 ## Schedule
 Questions & Answers will be possible after every tal. No worries.
