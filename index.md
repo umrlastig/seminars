@@ -11,9 +11,9 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 <a id="news"></a>
 # September 12, 2025: _Uncertainty and risks_
 
-The recent years have witnessed a tremedous change of paradigm, with a deluge of multi-modal geospatial data (images, text, in-situ measurements, model outputs, etc.). Each modality comes with its own noise level and uncertainty, which should be quantified for numerous application cases. 
-This is all the more true for topics with hig stakes such as infrastructure monitoring, natural hazards or sustainable mobility.
-This seminar targets to address both subjects, sometimes interwinned, in order to emphasize the numerous facets of uncertainty and the necessarity of tacking such topics for key environmental use cases.
+The recent years have witnessed a tremedous **change of paradigm**, with a deluge of multi-modal geospatial data (images, text, in-situ measurements, model outputs, etc.). Each modality comes with its own noise level and uncertainty, which should be quantified for numerous application cases. 
+This is all the more true for topics with **high stake** such as infrastructure monitoring, natural hazards or sustainable mobility.
+This seminar targets to **address both subjects, sometimes interwinned**, in order to emphasize the numerous facets of uncertainty and the necessarity of tacking such topics for key environmental use cases.
 
 ## Keynote speaker
 
