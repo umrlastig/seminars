@@ -17,7 +17,7 @@ Sentence of introduction
 
 ## Keynote speaker
 
-> Andrei Bursuc, valeo.ai
+> [Andrei Bursuc](https://abursuc.github.io/), valeo.ai
 >
 > Title of the talk
 
