@@ -47,9 +47,10 @@ Registration is mandatory, free of charge and can be done through this link. Dea
 ### How to join us ?
 
 #### On-site
+The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)).
 
 #### Remotely
-A zoom link will be sent to your registered email a couple of days prior to the event.
+A zoom link will be sent to your registered email a couple of days prior to the event, assuming you registered in due time.
 
 * * *
 
