@@ -8,7 +8,7 @@ description: All details on the past LASTIG seminars, content to be improved !
 
 All information about past LASTIG seminars is provided here.
 
-### 28 mai 2024: All about NeRF
+### May 28, 2024: All about NeRF
 
 | Time  🕤      | Speaker(s)          | Title | Slides |
 |:-------------|:------------------|:------|:------|
