@@ -43,7 +43,7 @@ Questions & Answers will be possible after every talk. No worries.
 
 ### Registration
 Registration is mandatory, free of charge and can be done through this link. Deadline is **September 5, 2025**.
-[Link] (https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=EP0g8syDRUiFYPEzSGxLGHWNCXfhXVBFqi4ThU2Xe5FUNDIySDRZQzA4M002OEU1MDlNRlA4MVRGUy4u)
+> [Link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=EP0g8syDRUiFYPEzSGxLGHWNCXfhXVBFqi4ThU2Xe5FUNDIySDRZQzA4M002OEU1MDlNRlA4MVRGUy4u/).
 
 ### How to join us ?
 
