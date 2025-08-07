@@ -33,7 +33,7 @@ Questions & Answers will be possible after every talk. No worries.
 
 | Time  🕤      | Speaker          | Slides |
 |:-------------|:------------------|:------|
-| 9:15           | Welcome Clément Mallet (head of LASTIG)|  |
+| 9:15           | Welcome by Clément Mallet (head of LASTIG)|  |
 | 9:30           | Andrei Bursuc (Valeo.ai) | TBD  |
 | 10:20 | Jean-Michael Müller (LASTIG)   | TBD  |
 | 10:50 | Jacques Gautier (LASTIG)   | TBD  |
