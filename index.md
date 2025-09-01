@@ -59,13 +59,6 @@ A zoom link will be sent to your registered email a couple of days prior to the 
 * * *
 
 
-
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
