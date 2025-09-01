@@ -23,10 +23,10 @@ This seminar targets to **address both subjects, sometimes interwinned**, in ord
 
 ## Technical talks
 
-*   _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Müller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/).
 *   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière._. [Jacques Gautier](https://www.umr-lastig.fr/jacques-gautier/).
 *   _Propagation d'incertitudes pour la construction d'itinéraires résilients_. [Arnaud Le Guilcher](https://www.umr-lastig.fr/aleguilcher_homepage/).
 *   _''Uncertainties and risks'' in the STRUDEL team : an overview of existing works_. [Alexandre Hipper-Ferrer](https://ahippert.github.io/).
+*    _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Müller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/).
 
 ## Schedule
 Questions & Answers will be possible after every talk. No worries.
@@ -35,10 +35,10 @@ Questions & Answers will be possible after every talk. No worries.
 |:-------------|:------------------|:------|
 | 9:15           | Welcome by Clément Mallet (head of LASTIG)|  |
 | 9:30           | Andrei Bursuc (Valeo.ai) | TBD  |
-| 10:20 | Jean-Michael Müller (LASTIG)   | TBD  |
-| 10:50 | Jacques Gautier (LASTIG)   | TBD  |
-| 11:20   | Arnaud Le Guilcher (LASTIG)      | TBD   |
-| 11:50 | Alexandre Hipper-Ferrer (LASTIG) | TBD  |
+| 10:20 | Jacques Gautier (LASTIG)   | TBD  |
+| 10:50   | Arnaud Le Guilcher (LASTIG)      | TBD   |
+| 11:20 | Alexandre Hipper-Ferrer (LASTIG) | TBD  |
+| 11:50 | Jean-Michael Müller (LASTIG)   | TBD  |
 
 * * *
 
@@ -50,6 +50,8 @@ Registration is mandatory, free of charge and can be done through this link. Dea
 
 #### On-site
 The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)).
+The *Picard* room (left door from the central stairs towards level -1).
+
 
 #### Remotely
 A zoom link will be sent to your registered email a couple of days prior to the event, assuming you registered in due time.
