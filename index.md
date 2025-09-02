@@ -17,7 +17,7 @@ This seminar targets to **address both subjects, sometimes interwinned**, in ord
 
 ## 👑 Keynote speaker
 
-![Photo Andrei](documents/abursuc.jpg){width=50}
+<img src="documents/abursuc.jpg" width="50" />
 > [Andrei Bursuc](https://abursuc.github.io/), valeo.ai
 >
 > **Reliability in the Age of Foundation Models**.
