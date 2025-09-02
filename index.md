@@ -19,14 +19,14 @@ This seminar targets to **address both subjects, sometimes interwinned**, in ord
 
 > [Andrei Bursuc](https://abursuc.github.io/), valeo.ai
 >
-> Title of the talk
+> **Reliability in the Age of Foundation Models**.
 
 ## ⚙ Technical talks
 
-*   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière._. [Jacques Gautier](https://www.umr-lastig.fr/jacques-gautier/).
-*   _Propagation d'incertitudes pour la construction d'itinéraires résilients_. [Arnaud Le Guilcher](https://www.umr-lastig.fr/aleguilcher_homepage/).
-*   _''Uncertainties and risks'' in the STRUDEL team : an overview of existing works_. [Alexandre Hipper-Ferrer](https://ahippert.github.io/).
-*    _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Müller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/).
+*   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière._. [Jacques Gautier](https://www.umr-lastig.fr/jacques-gautier/), GEOVIS team.
+*   _Propagation d'incertitudes pour la construction d'itinéraires résilients_. [Arnaud Le Guilcher](https://www.umr-lastig.fr/aleguilcher_homepage/), MEIG team.
+*   _''Uncertainties and risks'' in the STRUDEL team : an overview of existing works_. [Alexandre Hipper-Ferrer](https://ahippert.github.io/), STRUDEL team.
+*    _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Müller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/), ACTE team.
 
 ## 🕤 Schedule
 Questions & Answers will be possible after every talk. No worries.
@@ -34,7 +34,7 @@ Questions & Answers will be possible after every talk. No worries.
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
 | 9:15           | Welcome by Clément Mallet (head of LASTIG)|  |
-| 9:30           | Andrei Bursuc (Valeo.ai) | TBD  |
+| 9:30           | Andrei Bursuc (Valeo.ai) |   |
 | 10:20 | Jacques Gautier (LASTIG)   | TBD  |
 | 10:50   | Arnaud Le Guilcher (LASTIG)      | TBD   |
 | 11:20 | Alexandre Hipper-Ferrer (LASTIG) | TBD  |
@@ -43,13 +43,15 @@ Questions & Answers will be possible after every talk. No worries.
 * * *
 
 ### ☝ Registration
-Registration is mandatory, free of charge and can be done through this link. Deadline is **September 5, 2025**.
-> [Link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=EP0g8syDRUiFYPEzSGxLGHWNCXfhXVBFqi4ThU2Xe5FUNDIySDRZQzA4M002OEU1MDlNRlA4MVRGUy4u).
+Registration is mandatory, free of charge and can be done through this link. Deadline is **September 8, 2025**.
+> [Link to the form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=EP0g8syDRUiFYPEzSGxLGHWNCXfhXVBFqi4ThU2Xe5FUNDIySDRZQzA4M002OEU1MDlNRlA4MVRGUy4u).
+Be sure we won't do anything with your email address but sending you information about our seminars.
 
 ### 🎯 How to join us ?
 
 #### On-site
 The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
+
 The exact location is **Picard** room:
  - Level -1 from the main stairs in the central hall
  - Left door and just follow the signs. 
