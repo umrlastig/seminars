@@ -6,7 +6,7 @@ The [**LASTIG lab**](https://www.umr-lastig.fr/) is the French leading lab in **
 
 We propose every 2 or 3 months seminars that gather **guest keynotes** and presentations of **lab members/affiliates** on a topic at stake. Both mature and on-going works can be featured to stimulate discussions and introduce new lab projects.
 
-Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at sem-lastig_(at)_ign_(dot)_fr.
+Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at dir-lastig_(at)_ign_(dot)_fr.
 
 <a id="news"></a>
 # September 12, 2025: _Uncertainty and risks_
