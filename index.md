@@ -55,7 +55,7 @@ Be sure we won't do anything with your email address but sending you information
 The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
 
 The exact location is **Picard** room:
- - Level -1 from the main stairs in the central hall
+ - Level -1 from the main stairs in the central hall;
  - Left door and just follow the signs. 
 
 
@@ -64,17 +64,3 @@ A zoom link will be sent to your registered email a couple of days prior to the 
 
 * * *
 
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
