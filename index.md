@@ -15,23 +15,23 @@ The recent years have witnessed a tremedous **change of paradigm**, with a delug
 This is all the more true for topics with **high stake** such as infrastructure monitoring, natural hazards or sustainable mobility.
 This seminar targets to **address both subjects, sometimes interwinned**, in order to emphasize the numerous facets of uncertainty and the necessarity of tacking such topics for key environmental use cases.
 
-## Keynote speaker
+## 👑 Keynote speaker
 
 > [Andrei Bursuc](https://abursuc.github.io/), valeo.ai
 >
 > Title of the talk
 
-## Technical talks
+## ⚙ Technical talks
 
 *   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière._. [Jacques Gautier](https://www.umr-lastig.fr/jacques-gautier/).
 *   _Propagation d'incertitudes pour la construction d'itinéraires résilients_. [Arnaud Le Guilcher](https://www.umr-lastig.fr/aleguilcher_homepage/).
 *   _''Uncertainties and risks'' in the STRUDEL team : an overview of existing works_. [Alexandre Hipper-Ferrer](https://ahippert.github.io/).
 *    _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Müller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/).
 
-## Schedule
+## 🕤 Schedule
 Questions & Answers will be possible after every talk. No worries.
 
-| Time  🕤      | Speaker          | Slides |
+| Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
 | 9:15           | Welcome by Clément Mallet (head of LASTIG)|  |
 | 9:30           | Andrei Bursuc (Valeo.ai) | TBD  |
@@ -42,15 +42,17 @@ Questions & Answers will be possible after every talk. No worries.
 
 * * *
 
-### Registration
+### ☝ Registration
 Registration is mandatory, free of charge and can be done through this link. Deadline is **September 5, 2025**.
 > [Link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=EP0g8syDRUiFYPEzSGxLGHWNCXfhXVBFqi4ThU2Xe5FUNDIySDRZQzA4M002OEU1MDlNRlA4MVRGUy4u).
 
-### How to join us ?
+### 🎯 How to join us ?
 
 #### On-site
-The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)).
-The *Picard* room (left door from the central stairs towards level -1).
+The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
+The exact location is **Picard** room:
+ - Level -1 from the main stairs in the central hall
+ - Left door and just follow the signs. 
 
 
 #### Remotely
