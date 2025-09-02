@@ -38,7 +38,7 @@ Questions & Answers will be possible after every talk. No worries.
 | 10:20 | Jacques Gautier (LASTIG)   | TBD  |
 | 10:50   | Arnaud Le Guilcher (LASTIG)      | TBD   |
 | 11:20 | Alexandre Hipper-Ferrer (LASTIG) | TBD  |
-| 11:50 | Jean-Michael Müller (LASTIG)   | TBD  |
+| 11:50 | Jean-Michael Muller (LASTIG)   | TBD  |
 
 * * *
 
