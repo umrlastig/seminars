@@ -11,9 +11,7 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 <a id="news"></a>
 # September 12, 2025: _Uncertainty and risks_
 
-<img src="documents/adrien.jpg" width="200" />
-<img src="documents/octave.jpg" width="200" />
-<img src="documents/mattia.jpg" width="200" />
+![Alt text](documents/adrien.jpg) ![Alt text](documents/octave.jpg) ![Alt text](documents/mattia.jpg)
 
 The recent years have witnessed a tremedous **change of paradigm**, with a deluge of multi-modal geospatial data (images, text, in-situ measurements, model outputs, etc.). Each modality comes with its own noise level and uncertainty, which should be quantified for numerous application cases. 
 This is all the more true for topics with **high stake** such as infrastructure monitoring, natural hazards or sustainable mobility.
