@@ -24,10 +24,10 @@ This seminar targets to **address both subjects, sometimes interwinned**, in ord
 
 ## ⚙ Technical talks
 
-*   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière._. [Jacques Gautier](https://www.umr-lastig.fr/jacques-gautier/), GEOVIS team.
+*   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière_. [Jacques Gautier](https://www.umr-lastig.fr/jacques-gautier/), GEOVIS team.
 *   _Propagation d'incertitudes pour la construction d'itinéraires résilients_. [Arnaud Le Guilcher](https://www.umr-lastig.fr/aleguilcher_homepage/), MEIG team.
 *   _''Uncertainties and risks'' in the STRUDEL team : an overview of existing works_. [Alexandre Hipper-Ferrer](https://ahippert.github.io/), STRUDEL team.
-*    _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Müller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/), ACTE team.
+*    _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Muller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/), ACTE team.
 
 ## 🕤 Schedule
 Questions & Answers will be possible after every talk. No worries.
