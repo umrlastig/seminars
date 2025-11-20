@@ -8,7 +8,18 @@ description: All details on the past LASTIG seminars, content to be improved !
 
 All information about past LASTIG seminars is provided here.
 
-### May 28, 2024: All about NeRF
+### September 12, 2025: _Uncertainty and risks_
+
+| Time        | Speaker          | Slides |
+|:-------------|:------------------|:------|
+| 9:15           | Welcome by Clément Mallet (head of LASTIG)|[pdf](documents/SemThematique_LASTIG_Mallet_12092025.pdf)  |
+| 9:30           | Andrei Bursuc (Valeo.ai) |[pdf](documents/SemThematique_LASTIG_Bursuc_12092025.pdf)   |
+| 10:20 | Jacques Gautier (LASTIG)   | [pdf](documents/SemThematique_LASTIG_Gautier_12092025.pdf)  |
+| 10:50   | Arnaud Le Guilcher (LASTIG)      | [pdf](documents/SemThematique_LASTIG_LeGuilcher_12092025.pdf)   |
+| 11:20 | Alexandre Hipper-Ferrer (LASTIG) | [pdf](documents/SemThematique_LASTIG_HippertFerrer_12092025.pdf)  |
+| 11:50 | Jean-Michael Muller (LASTIG)   | TBD  |
+
+### May 28, 2024: _All about NeRF_
 
 | Time  🕤      | Speaker(s)          | Title | Slides |
 |:-------------|:------------------|:------|:------|
