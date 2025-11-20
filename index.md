@@ -17,38 +17,42 @@ The recent years have witnessed a tremedous **change of paradigm**, with a delug
 This is all the more true for topics with **high stake** such as infrastructure monitoring, natural hazards or sustainable mobility.
 This seminar targets to **address both subjects, sometimes interwinned**, in order to emphasize the numerous facets of uncertainty and the necessarity of tacking such topics for key environmental use cases.
 
-## 👑 Keynote speaker
+## 👑 Keynotes speakers
 
-<img src="documents/abursuc.jpg" width="110" />
-> [Andrei Bursuc](https://abursuc.github.io/), valeo.ai
+<img src="documents/lexcomber.jpeg" width="110" />
+> [Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber), University of Leeds, United Kingdom
 >
-> **Reliability in the Age of Foundation Models**.
+> **Title**.
+
+> <img src="documents/zipf_fern.jpg" width="110" />
+> [Alexander Zipf](https://www.geog.uni-heidelberg.de/de/personen-am-institut/prof-dr-alexander-zipf), Universität Heidelberg, Germany
+>
+> **Title**.
 
 ## ⚙ Technical talks
 
-*   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière_. [Jacques Gautier](https://www.umr-lastig.fr/jacques-gautier/), GEOVIS team.
-*   _Propagation d'incertitudes pour la construction d'itinéraires résilients_. [Arnaud Le Guilcher](https://www.umr-lastig.fr/aleguilcher_homepage/), MEIG team.
-*   _''Uncertainties and risks'' in the STRUDEL team : an overview of existing works_. [Alexandre Hipper-Ferrer](https://ahippert.github.io/), STRUDEL team.
-*    _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Muller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/), ACTE team.
+*   _Title_. [Ana-Maria Raimond](https://www.umr-lastig.fr/Ana-Maria-Raimond-homepage/), MEIG team.
+*   _LiDAR/Image geometric change detection_. [Teng Wu](https://whuwuteng.github.io/), ACTE team.
+*   _Bi-temporal VHR image change detection with text_. [Yanis Benidir](https://yb23.github.io/), STRUDEL team.
 
 ## 🕤 Schedule
 Questions & Answers will be possible after every talk. No worries.
 
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
-| 9:15           | Welcome by Clément Mallet (head of LASTIG)|[pdf](documents/SemThematique_LASTIG_Mallet_12092025.pdf)  |
-| 9:30           | Andrei Bursuc (Valeo.ai) |[pdf](documents/SemThematique_LASTIG_Bursuc_12092025.pdf)   |
-| 10:20 | Jacques Gautier (LASTIG)   | [pdf](documents/SemThematique_LASTIG_Gautier_12092025.pdf)  |
-| 10:50   | Arnaud Le Guilcher (LASTIG)      | [pdf](documents/SemThematique_LASTIG_LeGuilcher_12092025.pdf)   |
-| 11:20 | Alexandre Hipper-Ferrer (LASTIG) | [pdf](documents/SemThematique_LASTIG_HippertFerrer_12092025.pdf)  |
-| 11:50 | Jean-Michael Muller (LASTIG)   | TBD  |
+| 9:15           | Welcome by Bruno Vallet (head of LASTIG)| TBD  |
+| 9:30           | Lex Comber (Univ of Leeds, UK) |TBD   |
+| 10:10 | Ana-Maria Raimond (LASTIG)   | TBD   |
+| 10:30   | Teng Wu (LASTIG)      | TBD    |
+| 10:50 | Yanis Benidir (LASTIG) | TBD   |
+| 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   | TBD  |
 
 * * *
 
 ### ☝ Registration
-Registration is mandatory, free of charge and can be done through this link.
-Deadline is **September 8, 2025**.
-> [Link to the form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=EP0g8syDRUiFYPEzSGxLGHWNCXfhXVBFqi4ThU2Xe5FUNDIySDRZQzA4M002OEU1MDlNRlA4MVRGUy4u).
+Registration is mandatory, free of charge and will be possible through the link provided below.
+Deadline is **January 8, 2025**.
+> [Link to the form](Not yet available).
 
 Be sure we won't do anything with your email address but sending you information about our seminars.
 
