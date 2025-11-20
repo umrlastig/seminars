@@ -22,7 +22,7 @@ Cover introduction
 >
 > **Title**.
 
-> <img src="documents/zipf_fern.jpg" width="110" />
+<img src="documents/zipf_fern.jpg" width="110" />
 > [Alexander Zipf](https://www.geog.uni-heidelberg.de/de/personen-am-institut/prof-dr-alexander-zipf), Universität Heidelberg, Germany
 >
 > **Title**.
