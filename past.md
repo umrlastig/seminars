@@ -21,6 +21,8 @@ All information about past LASTIG seminars is provided here.
 | 11:20 | Alexandre Hipper-Ferrer (LASTIG) | [pdf](documents/SemThematique_LASTIG_HippertFerrer_12092025.pdf)  |
 | 11:50 | Jean-Michael Muller (LASTIG)   | TBD  |
 
+
+
 ### May 28, 2024: _All about NeRF_
 
 | Time  🕤      | Speaker(s)          | Title | Slides |
