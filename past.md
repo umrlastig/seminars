@@ -10,6 +10,8 @@ All information about past LASTIG seminars is provided here.
 
 ### September 12, 2025: _Uncertainty and risks_
 
+![Semantics](documents/adrien.jpg) ![Flooding](documents/octave.jpg) ![Localization](documents/mattia.jpg)![Disparity](documents/teng.jpg)
+
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
 | 9:15           | Welcome by Clément Mallet (head of LASTIG)|[pdf](documents/SemThematique_LASTIG_Mallet_12092025.pdf)  |
