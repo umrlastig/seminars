@@ -9,13 +9,11 @@ We propose every 2 or 3 months seminars that gather **guest keynotes** and prese
 Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at dir-lastig_(at)_ign_(dot)_fr.
 
 <a id="news"></a>
-# September 12, 2025: _Uncertainty and risks_
+# January 16, 2025: _Monitoring a dynamic world_
 
-![Semantics](documents/adrien.jpg) ![Flooding](documents/octave.jpg) ![Localization](documents/mattia.jpg)![Disparity](documents/teng.jpg)
+![Semantics](documents/adrien.jpg)
 
-The recent years have witnessed a tremedous **change of paradigm**, with a deluge of multi-modal geospatial data (images, text, in-situ measurements, model outputs, etc.). Each modality comes with its own noise level and uncertainty, which should be quantified for numerous application cases. 
-This is all the more true for topics with **high stake** such as infrastructure monitoring, natural hazards or sustainable mobility.
-This seminar targets to **address both subjects, sometimes interwinned**, in order to emphasize the numerous facets of uncertainty and the necessarity of tacking such topics for key environmental use cases.
+Cover introduction
 
 ## 👑 Keynotes speakers
 
