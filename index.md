@@ -22,6 +22,8 @@ Cover introduction
 >
 > **Title**.
 -->
+
+<!--| 9:30           |  Lex Comber (Univ of Leeds, UK) |TBD   |-->
 <img src="documents/zipf_fern.jpg" width="110" />
 > [Alexander Zipf](https://www.geog.uni-heidelberg.de/de/personen-am-institut/prof-dr-alexander-zipf), Universität Heidelberg, Germany
 >
@@ -39,7 +41,6 @@ Questions & Answers will be possible after every talk. No worries.
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
 | 9:15           | Welcome by Bruno Vallet (head of LASTIG)| TBD  |
-<!--| 9:30           |  Lex Comber (Univ of Leeds, UK) |TBD   |-->
 | 10:10 | Ana-Maria Raimond (LASTIG)   | TBD   |
 | 10:30   | Teng Wu (LASTIG)      | TBD    |
 | 10:50 | Yanis Benidir (LASTIG) | TBD   |
