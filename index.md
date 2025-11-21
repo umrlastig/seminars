@@ -16,12 +16,12 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 Cover introduction
 
 ## 👑 Keynotes speakers
-
+<!-- 
 <img src="documents/lexcomber.jpeg" width="110" />
 > [Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber), University of Leeds, United Kingdom
 >
 > **Title**.
-
+-->
 <img src="documents/zipf_fern.jpg" width="110" />
 > [Alexander Zipf](https://www.geog.uni-heidelberg.de/de/personen-am-institut/prof-dr-alexander-zipf), Universität Heidelberg, Germany
 >
