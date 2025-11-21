@@ -29,7 +29,7 @@ Cover introduction
 
 ## ⚙ Technical talks
 
-*   _Title_. [Ana-Maria Raimond](https://www.umr-lastig.fr/Ana-Maria-Raimond-homepage/), MEIG team.
+*   _Seeing Urban Densification through the Buildings’ Lens: A User-Oriented and Collaborative Approach_. [Ana-Maria Raimond](https://www.umr-lastig.fr/Ana-Maria-Raimond-homepage/), MEIG team.
 *   _LiDAR/Image geometric change detection_. [Teng Wu](https://whuwuteng.github.io/), ACTE team.
 *   _Bi-temporal VHR image change detection with text_. [Yanis Benidir](https://yb23.github.io/), STRUDEL team.
 
