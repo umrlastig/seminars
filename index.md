@@ -16,12 +16,12 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 Cover introduction
 
 ## 👑 Keynotes speakers
-<!-- 
+
 <img src="documents/lexcomber.jpeg" width="110" />
 > [Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber), University of Leeds, United Kingdom
 >
-> **Title**.
--->
+> **Detecting neighbourhood dynamics**.
+
 
 <!--| 9:30           |  Lex Comber (Univ of Leeds, UK) |TBD   |-->
 <img src="documents/zipf_fern.jpg" width="110" />
@@ -52,7 +52,7 @@ Questions & Answers will be possible after every talk. No worries.
 ### ☝ Registration
 Registration is mandatory, free of charge and will be possible through the link provided below.
 Deadline is **January 8, 2025**.
-> [Link to the form](Not yet available).
+> [Link to the form (Not yet available)]().
 
 Be sure we won't do anything with your email address but sending you information about our seminars.
 
