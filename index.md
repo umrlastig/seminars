@@ -40,10 +40,10 @@ Questions & Answers will be possible after every talk. No worries.
 
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
-| 9:15           | Welcome by Bruno Vallet (head of LASTIG)| TBD  |
-| 9:30           |   |TBD   |
+| 9:15  | Welcome by Bruno Vallet (head of LASTIG)| TBD  |
+| 9:30  | Alexis Comber (University of Leeds)  |TBD   |
 | 10:10 | Ana-Maria Raimond (LASTIG)   | TBD   |
-| 10:30   | Teng Wu (LASTIG)      | TBD    |
+| 10:30 | Teng Wu (LASTIG)      | TBD    |
 | 10:50 | Yanis Benidir (LASTIG) | TBD   |
 | 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   | TBD  |
 
