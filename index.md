@@ -9,7 +9,7 @@ We propose every 2 or 3 months seminars that gather **guest keynotes** and prese
 Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at dir-lastig_(at)_ign_(dot)_fr.
 
 <a id="news"></a>
-# January 16, 2025: _Monitoring a dynamic world_
+# January 16, 2026: _Monitoring a dynamic world_
 <p align="center">
 <img src="documents/adrien.jpg" height="170" />   <img src="documents/subdense.png" height="170" /><img src="documents/yanis.png" height="150" />
 </p>
