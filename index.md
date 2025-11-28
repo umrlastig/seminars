@@ -59,7 +59,7 @@ Be sure we won't do anything with your email address but sending you information
 
 ### 🎯 How to join us ?
 
-#### On-site
+#### <u>On-site</u>
 The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
 
 The exact location is **Picard** room:
@@ -67,7 +67,7 @@ The exact location is **Picard** room:
  - Left door and just follow the signs. 
 
 
-#### Remotely
+#### <u>Remotely</u>
 A zoom link will be sent to your registered email a couple of days prior to the event, assuming you registered in due time.
 
 * * *
