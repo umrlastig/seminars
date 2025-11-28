@@ -13,8 +13,8 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 <p align="center">
 <img src="documents/adrien.jpg" height="170" />   <img src="documents/subdense.png" height="170" /><img src="documents/yanis.png" height="150" />
 </p>
-Detecting and semantizing changes is of utmost importance for most public policies related to territory planning and monitoring. This explains why four decades of literature in Geographic Information Sciences and Remote Sensing have extensively investigated effective methods in leveraging geospatial data for that multi-faceted purpose. 
-The LASTIG has been working on this field for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar targets to gather international experts of the field and current developments in our lab.  
+Detecting and semantizing changes is of utmost importance for most public policies related to territory planning and monitoring. This explains why four decades of literature in Geographic Information Sciences and Remote Sensing have extensively investigated effective methods in leveraging geospatial data for that multi-faceted purpose. <br>
+The LASTIG has been working on this field for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar gathers international experts of the field and current developments in our lab.  
 
 ## 👑 Keynotes speakers
 
