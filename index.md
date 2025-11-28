@@ -11,7 +11,7 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 <a id="news"></a>
 # January 16, 2025: _Monitoring a dynamic world_
 
-![Semantics](documents/adrien.jpg)
+![Semantics](documents/adrien.jpg)![Subdense](documents/subdense.png)![Pairwisee](documents/yanis.png)
 
 Cover introduction
 
