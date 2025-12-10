@@ -8,12 +8,14 @@ description: All details on the upcoming LASTIG seminars, content to be regularl
 
 All information about past LASTIG seminars is provided here.
 
-## January 16 2026 (9.00 - 12.00 am): _Monitoring territory dynamics_
-
-Schedule and speakers will be provided later this year.
 
 ## April 2026: _Intervisibility_
 
+Schedule and speakers will be provided later this year.
+
+## June 2026: _Alumni_
+
+Former members of the lab, spread all over the world will participate.
 Schedule and speakers will be provided later this year.
 
 [back](./)

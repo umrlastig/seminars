@@ -9,11 +9,12 @@ We propose every 2 or 3 months seminars that gather **guest keynotes** and prese
 Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at dir-lastig_(at)_ign_(dot)_fr.
 
 <a id="news"></a>
-# January 16, 2025: _Monitoring a dynamic world_
-
-![Semantics](documents/adrien.jpg)
-
-Cover introduction
+# January 16, 2026: _Monitoring a dynamic world_
+<p align="center">
+<img src="documents/adrien.jpg" height="170" />   <img src="documents/subdense.png" height="170" /><img src="documents/yanis.png" height="150" />
+</p>
+Detecting and semantizing changes is of utmost importance for most public policies related to territory planning and monitoring. This explains why four decades of literature in Geographic Information Sciences and Remote Sensing have extensively investigated effective methods in leveraging geospatial data for that multi-faceted purpose. <br>
+The LASTIG has been working on this field for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar gathers international experts of the field and current developments in our lab.  
 
 ## 👑 Keynotes speakers
 
@@ -27,7 +28,7 @@ Cover introduction
 <img src="documents/zipf_fern.jpg" width="110" />
 > [Alexander Zipf](https://www.geog.uni-heidelberg.de/de/personen-am-institut/prof-dr-alexander-zipf), Universität Heidelberg, Germany
 >
-> **Title**.
+> **Title coming soon**.
 
 ## ⚙ Technical talks
 
@@ -41,7 +42,7 @@ Questions & Answers will be possible after every talk. No worries.
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
 | 9:15  | Welcome by Bruno Vallet (head of LASTIG)| TBD  |
-| 9:30  | Alexis Comber (University of Leeds)  |TBD   |
+| 9:30  | Alexis Comber (University of Leeds, UK)  |TBD   |
 | 10:10 | Ana-Maria Raimond (LASTIG)   | TBD   |
 | 10:30 | Teng Wu (LASTIG)      | TBD    |
 | 10:50 | Yanis Benidir (LASTIG) | TBD   |
@@ -52,7 +53,7 @@ Questions & Answers will be possible after every talk. No worries.
 ### ☝ Registration
 Registration is mandatory, free of charge and will be possible through the link provided below.
 Deadline is **January 8, 2025**.
-> [Link to the form (Not yet available)]().
+> [Link to the form](https://forms.office.com/e/5N4m7YBej1).
 
 Be sure we won't do anything with your email address but sending you information about our seminars.
 
@@ -66,7 +67,7 @@ The exact location is **Picard** room:
  - Left door and just follow the signs. 
 
 
-#### Remotely
+#### <u>Remotely</u>
 A zoom link will be sent to your registered email a couple of days prior to the event, assuming you registered in due time.
 
 * * *
