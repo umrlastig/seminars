@@ -59,7 +59,7 @@ Be sure we won't do anything with your email address but sending you information
 ### 🎯 How to join us ?
 
 #### On-site
-The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
+The seminar will take place in [Géodata Paris (ex.ENSG-Géomatique)](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
 
 The exact location is **Picard** room:
  - Level -1 from the main stairs in the central hall;
