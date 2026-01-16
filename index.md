@@ -28,7 +28,7 @@ The LASTIG has been working on this field for a long time among its four researc
 <img src="documents/zipf_fern.jpg" width="110" />
 > [Alexander Zipf](https://www.geog.uni-heidelberg.de/de/personen-am-institut/prof-dr-alexander-zipf), Universität Heidelberg, Germany
 >
-> **Title coming soon**.
+> **Monitoring Dynamics with OpenStreetMap**.
 
 ## ⚙ Technical talks
 
@@ -41,10 +41,10 @@ Questions & Answers will be possible after every talk. No worries.
 
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
-| 9:15  | Welcome by Bruno Vallet (head of LASTIG)| TBD  |
+| 9:15  | Welcome by Bruno Vallet (head of LASTIG)| [pdf](documents/SemThematique_LASTIG_Vallet_16012026.pdf)   |
 | 9:30  | Alexis Comber (University of Leeds, UK)  |TBD   |
 | 10:10 | Ana-Maria Raimond (LASTIG)   | TBD   |
-| 10:30 | Teng Wu (LASTIG)      | TBD    |
+| 10:30 | Teng Wu (LASTIG)      | [pdf](documents/SemThematique_LASTIG_Wu_16012026.pdf)     |
 | 10:50 | Yanis Benidir (LASTIG) | TBD   |
 | 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   | TBD  |
 
