@@ -42,11 +42,12 @@ Questions & Answers will be possible after every talk. No worries.
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
 | 9:15  | Welcome by Bruno Vallet (head of LASTIG)| [pdf](documents/SemThematique_LASTIG_Vallet_16012026.pdf)   |
-| 9:30  | Alexis Comber (University of Leeds, UK)  |TBD   |
-| 10:10 | Ana-Maria Raimond (LASTIG)   | TBD   |
+| 9:15  | Nicolas Gonthier (IGN)| [pdf](documents/SemThematique_Gonthier16012026.pdf)   | 
+| 9:30  | Alexis Comber (University of Leeds, UK)  |[html](documents/SemThematique_Comber_16012026.html)   |
+| 10:10 | Ana-Maria Raimond (LASTIG)   | [pdf](documents/SemThematique_Raimond16012026.pdf)   |
 | 10:30 | Teng Wu (LASTIG)      | [pdf](documents/SemThematique_LASTIG_Wu_16012026.pdf)     |
-| 10:50 | Yanis Benidir (LASTIG) | TBD   |
-| 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   | TBD  |
+| 10:50 | Yanis Benidir (LASTIG) | [pdf](documents/SemThematique_Bendir16012026.pdf)   |
+| 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   | [pdf](documents/SemThematique_Zipf16012026.pdf)  |
 
 * * *
 
