@@ -30,17 +30,12 @@ All information about past LASTIG seminars is provided here.
 
 | Time        | Speaker         | Title | Slides |
 |:-------------|:------------------|:------|:------|
-| 9:15           | Clément Mallet (LASTIG)|Welcome|[pdf](documents/SemThematique_LASTIG_Mallet_12092025.pdf)  |
-| 9:30           | Andrei Bursuc (Valeo.ai) | Reliability in the age of 
-Foundation Models|[pdf](documents/SemThematique_LASTIG_Bursuc_12092025.pdf)   |
-| 10:20 | Jacques Gautier (LASTIG)   |Visualiser des données entachées 
-d’incertitude |[pdf](documents/SemThematique_LASTIG_Gautier_12092025.pdf)  |
-| 10:50   | Arnaud Le Guilcher (LASTIG)      |Management of uncertainties 
-for the computation of resilient 
-trips |[pdf](documents/SemThematique_LASTIG_LeGuilcher_12092025.pdf)   |
-| 11:20 | Alexandre Hipper-Ferrer (LASTIG) |Uncertainties and risks in the STRUDEL team : an overview of
-existing works |[pdf](documents/SemThematique_LASTIG_HippertFerrer_12092025.pdf)  |
-| 11:50 | Jean-Michael Muller (LASTIG)   | |--  |
+| 9:15 | Clément Mallet (LASTIG)| Welcome |[pdf](documents/SemThematique_LASTIG_Mallet_12092025.pdf)  |
+| 9:30  | Andrei Bursuc (Valeo.ai) | Reliability in the age of Foundation Models | [pdf](documents/SemThematique_LASTIG_Bursuc_12092025.pdf)   |
+| 10:20 | Jacques Gautier (LASTIG)   | Visualiser des données entachées d’incertitude | [pdf](documents/SemThematique_LASTIG_Gautier_12092025.pdf)  |
+| 10:50   | Arnaud Le Guilcher (LASTIG)      | Management of uncertainties for the computation of resilient trips | [pdf](documents/SemThematique_LASTIG_LeGuilcher_12092025.pdf)   |
+| 11:20 | Alexandre Hipper-Ferrer (LASTIG) | Uncertainties and risks in the STRUDEL team : an overview of existing works | [pdf](documents/SemThematique_LASTIG_HippertFerrer_12092025.pdf)  |
+| 11:50 | Jean-Michael Muller (LASTIG)   |-- |--  |
 
 
 
