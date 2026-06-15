@@ -8,6 +8,20 @@ description: All details on the past LASTIG seminars, content to be improved !
 
 All information about past LASTIG seminars is provided here.
 
+### January 16, 2026: _Monitoring a dynamic world_
+
+![Semantics](documents/adrien.jpg) ![Densification](documents/subdense.png) ![Change](documents/yanis.png)
+
+| Time        | Speaker          | Slides |
+|:-------------|:------------------|:------|
+| 9:15  | Welcome by Bruno Vallet (head of LASTIG)| [pdf](documents/SemThematique_LASTIG_Vallet_16012026.pdf)   |
+| 9:15  | Nicolas Gonthier (IGN)| [pdf](documents/SemThematique_Gonthier16012026.pdf)   | 
+| 9:30  | Alexis Comber (University of Leeds, UK)  |[html](documents/SemThematique_Comber_16012026.html)   |
+| 10:10 | Ana-Maria Raimond (LASTIG)   | [pdf](documents/SemThematique_Raimond16012026.pdf)   |
+| 10:30 | Teng Wu (LASTIG)      | [pdf](documents/SemThematique_LASTIG_Wu_16012026.pdf)     |
+| 10:50 | Yanis Benidir (LASTIG) | [pdf](documents/SemThematique_Bendir16012026.pdf)   |
+| 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   | [pdf](documents/SemThematique_Zipf16012026.pdf)  |
+
 ### September 12, 2025: _Uncertainty and risks_
 
 ![Semantics](documents/adrien.jpg) ![Flooding](documents/octave.jpg) ![Localization](documents/mattia.jpg)![Disparity](documents/teng.jpg)
