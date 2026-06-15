@@ -20,12 +20,9 @@ All information about past LASTIG seminars is provided here.
 | 9:15  | Nicolas Gonthier (IGN)|IGN Road map on change detection | [pdf](documents/SemThematique_Gonthier16012026.pdf)   | 
 | 9:30  | Alexis Comber (University of Leeds, UK)  |Detecting neighbourhood dynamics|[html](documents/SemThematique_Comber_16012026.html)   |
 | 10:10 | Ana-Maria Raimond (LASTIG)   |Seeing Urban Densification through the Buildings’ Lens: A User-Oriented and Collaborative Approach| [pdf](documents/SemThematique_Raimond16012026.pdf)   |
-| 10:30 | Teng Wu (LASTIG)      |Image LiDAR based change detection and 
-updating for urban 3D reconstruction| [pdf](documents/SemThematique_LASTIG_Wu_16012026.pdf)     |
-| 10:50 | Yanis Benidir (LASTIG) |RethinkingChange
-DetectionwithLLMs| [pdf](documents/SemThematique_Bendir16012026.pdf)   |
-| 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   |Monitoring dynamics
-of OpenStreetMap| [pdf](documents/SemThematique_Zipf16012026.pdf)  |
+| 10:30 | Teng Wu (LASTIG)      |Image LiDAR based change detection and updating for urban 3D reconstruction| [pdf](documents/SemThematique_LASTIG_Wu_16012026.pdf)     |
+| 10:50 | Yanis Benidir (LASTIG) |Rethinking Change Detection with LLMs| [pdf](documents/SemThematique_Bendir16012026.pdf)   |
+| 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   |Monitoring dynamics of OpenStreetMap| [pdf](documents/SemThematique_Zipf16012026.pdf)  |
 
 ### September 12, 2025: _Uncertainty and risks_
 
