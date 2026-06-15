@@ -10,7 +10,9 @@ All information about past LASTIG seminars is provided here.
 
 ### January 16, 2026: _Monitoring a dynamic world_
 
-![Semantics](documents/adrien.jpg) ![Densification](documents/subdense.png) ![Change](documents/yanis.png)
+<p align="center">
+<img src="documents/adrien.jpg" height="170" />   <img src="documents/subdense.png" height="170" /><img src="documents/yanis.png" height="150" />
+</p>
 
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
