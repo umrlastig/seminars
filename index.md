@@ -16,9 +16,9 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 _Rationale_ <br>
 The LASTIG has been working on this field for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar gathers international experts of the field and current developments in our lab.  
 
-## 👑 Keynotes speaker
+## 👑 Keynote speaker
 
-<img src="documents/lexcomber.jpeg" width="110" />
+<img src="documents/vincentlepetit.png" width="110" />
 > [Vincent Lepetit](https://vincentlepetit.github.io/), Ecole des Ponts ParisTech, France
 >
 > **Title coming soon**.
@@ -35,20 +35,19 @@ Questions & Answers will be possible after every talk. No worries.
 
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
-| 9:15  | Welcome by Bruno Vallet (head of LASTIG)| [pdf](documents/SemThematique_LASTIG_Vallet_16012026.pdf)   |
-| 9:15  | Nicolas Gonthier (IGN)| [pdf](documents/SemThematique_Gonthier16012026.pdf)   | 
-| 9:30  | Alexis Comber (University of Leeds, UK)  |[html](documents/SemThematique_Comber_16012026.html)   |
-| 10:10 | Ana-Maria Raimond (LASTIG)   | [pdf](documents/SemThematique_Raimond16012026.pdf)   |
-| 10:30 | Teng Wu (LASTIG)      | [pdf](documents/SemThematique_LASTIG_Wu_16012026.pdf)     |
-| 10:50 | Yanis Benidir (LASTIG) | [pdf](documents/SemThematique_Bendir16012026.pdf)   |
-| 11:10 | Alexander Zipf (Univ Heidelberg, Germany)   | [pdf](documents/SemThematique_Zipf16012026.pdf)  |
+| 9:15  |Bruno Vallet| --   |
+| 9:30  | Vincent Lepetit | --   | 
+| 10:30  |Pierre Aumond  |--   |
+| 11:00 | Bruno Vallet   | --   |
+| 11:20 | Laurence Jolivet & Cécile Duchêne  | --     |
+| 11:40 |Maxim Spur & Gérald Choqueux | --   |
 
 * * *
 
 ### ☝ Registration
 Registration is mandatory, free of charge and will be possible through the link provided below.
-Deadline is **January 12, 2025**.
-> [Link to the form](https://forms.office.com/e/5N4m7YBej1).
+Deadline is **September 12, 2025**.
+> [Link to the form](https://forms.office.com/e/DWkysXvvfx?origin=lprLink).
 
 Be sure we won't do anything with your email address but sending you information about our seminars.
 
