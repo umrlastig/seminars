@@ -19,9 +19,7 @@ All information about past LASTIG seminars is provided here.
 | 9:15  | Bruno Vallet|Welcome| [pdf](documents/SemThematique_LASTIG_Vallet_16012026.pdf)   |
 | 9:15  | Nicolas Gonthier (IGN)|IGN Road map on change detection | [pdf](documents/SemThematique_Gonthier16012026.pdf)   | 
 | 9:30  | Alexis Comber (University of Leeds, UK)  |Detecting neighbourhood dynamics|[html](documents/SemThematique_Comber_16012026.html)   |
-| 10:10 | Ana-Maria Raimond (LASTIG)   |Seeing Urban Densification through the 
-Buildings’ Lens: A User-Oriented and 
-Collaborative Approach| [pdf](documents/SemThematique_Raimond16012026.pdf)   |
+| 10:10 | Ana-Maria Raimond (LASTIG)   |Seeing Urban Densification through the Buildings’ Lens: A User-Oriented and Collaborative Approach| [pdf](documents/SemThematique_Raimond16012026.pdf)   |
 | 10:30 | Teng Wu (LASTIG)      |Image LiDAR based change detection and 
 updating for urban 3D reconstruction| [pdf](documents/SemThematique_LASTIG_Wu_16012026.pdf)     |
 | 10:50 | Yanis Benidir (LASTIG) |RethinkingChange
@@ -33,14 +31,19 @@ of OpenStreetMap| [pdf](documents/SemThematique_Zipf16012026.pdf)  |
 
 ![Semantics](documents/adrien.jpg) ![Flooding](documents/octave.jpg) ![Localization](documents/mattia.jpg)![Disparity](documents/teng.jpg)
 
-| Time        | Speaker          | Slides |
-|:-------------|:------------------|:------|
-| 9:15           | Welcome by Clément Mallet (head of LASTIG)|[pdf](documents/SemThematique_LASTIG_Mallet_12092025.pdf)  |
-| 9:30           | Andrei Bursuc (Valeo.ai) |[pdf](documents/SemThematique_LASTIG_Bursuc_12092025.pdf)   |
-| 10:20 | Jacques Gautier (LASTIG)   | [pdf](documents/SemThematique_LASTIG_Gautier_12092025.pdf)  |
-| 10:50   | Arnaud Le Guilcher (LASTIG)      | [pdf](documents/SemThematique_LASTIG_LeGuilcher_12092025.pdf)   |
-| 11:20 | Alexandre Hipper-Ferrer (LASTIG) | [pdf](documents/SemThematique_LASTIG_HippertFerrer_12092025.pdf)  |
-| 11:50 | Jean-Michael Muller (LASTIG)   | --  |
+| Time        | Speaker         | Title | Slides |
+|:-------------|:------------------|:------|:------|
+| 9:15           | Clément Mallet (LASTIG)|Welcome|[pdf](documents/SemThematique_LASTIG_Mallet_12092025.pdf)  |
+| 9:30           | Andrei Bursuc (Valeo.ai) | Reliability in the age of 
+Foundation Models|[pdf](documents/SemThematique_LASTIG_Bursuc_12092025.pdf)   |
+| 10:20 | Jacques Gautier (LASTIG)   |Visualiser des données entachées 
+d’incertitude |[pdf](documents/SemThematique_LASTIG_Gautier_12092025.pdf)  |
+| 10:50   | Arnaud Le Guilcher (LASTIG)      |Management of uncertainties 
+for the computation of resilient 
+trips |[pdf](documents/SemThematique_LASTIG_LeGuilcher_12092025.pdf)   |
+| 11:20 | Alexandre Hipper-Ferrer (LASTIG) |Uncertainties and risks in the STRUDEL team : an overview of
+existing works |[pdf](documents/SemThematique_LASTIG_HippertFerrer_12092025.pdf)  |
+| 11:50 | Jean-Michael Muller (LASTIG)   | |--  |
 
 
 
