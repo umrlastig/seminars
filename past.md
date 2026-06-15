@@ -26,7 +26,7 @@ All information about past LASTIG seminars is provided here.
 
 ### September 12, 2025: _Uncertainty and risks_
 
-![Semantics](documents/adrien.jpg) ![Flooding](documents/octave.jpg) ![Localization](documents/mattia.jpg)![Disparity](documents/teng.jpg)
+![Flooding](documents/octave.jpg) ![Localization](documents/mattia.jpg)![Disparity](documents/teng.jpg)
 
 | Time        | Speaker         | Title | Slides |
 |:-------------|:------------------|:------|:------|
