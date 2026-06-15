@@ -9,32 +9,26 @@ We propose every 2 or 3 months seminars that gather **guest keynotes** and prese
 Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at dir-lastig_(at)_ign_(dot)_fr.
 
 <a id="news"></a>
-# January 16, 2026: _Monitoring a dynamic world_
+# September 2026: _Intervisibility_
 <p align="center">
 <img src="documents/adrien.jpg" height="170" />   <img src="documents/subdense.png" height="170" /><img src="documents/yanis.png" height="150" />
 </p>
-Detecting and semantizing changes is of utmost importance for most public policies related to territory planning and monitoring. This explains why four decades of literature in Geographic Information Sciences and Remote Sensing have extensively investigated effective methods in leveraging geospatial data for that multi-faceted purpose. <br>
+_Rationale_ <br>
 The LASTIG has been working on this field for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar gathers international experts of the field and current developments in our lab.  
 
-## 👑 Keynotes speakers
+## 👑 Keynotes speaker
 
 <img src="documents/lexcomber.jpeg" width="110" />
-> [Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber), University of Leeds, United Kingdom
+> [Vincent Lepetit](https://vincentlepetit.github.io/), Ecole des Ponts ParisTech, France
 >
-> **Detecting neighbourhood dynamics**.
-
-
-<!--| 9:30           |  Lex Comber (Univ of Leeds, UK) |TBD   |-->
-<img src="documents/zipf_fern.jpg" width="110" />
-> [Alexander Zipf](https://www.geog.uni-heidelberg.de/de/personen-am-institut/prof-dr-alexander-zipf), Universität Heidelberg, Germany
->
-> **Monitoring Dynamics with OpenStreetMap**.
+> **Title coming soon**.
 
 ## ⚙ Technical talks
 
-*   _Seeing Urban Densification through the Buildings’ Lens: A User-Oriented and Collaborative Approach_. [Ana-Maria Raimond](https://www.umr-lastig.fr/Ana-Maria-Raimond-homepage/), MEIG team.
-*   _LiDAR/Image geometric change detection_. [Teng Wu](https://whuwuteng.github.io/), ACTE team.
-*   _Bi-temporal VHR image change detection with text_. [Yanis Benidir](https://yb23.github.io/), STRUDEL team.
+*  _Coming soon_. [Pierre Aumond (UMRAE)](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond), for STRUDEL team.
+*   _Coming soon_. [Bruno Vallet](https://www.umr-lastig.fr/bruno-vallet/), ACTE team.
+*   _Coming soon_. [Laurence Jolivet](https://www.umr-lastig.fr/members/Laurence-Jolivet/) and [Cécile Duchêne]([https://whuwuteng.github.io/](https://www.umr-lastig.fr/members/C%C3%A9cile-Duch%C3%AAne/)), MEIG team.
+*   _What Can Be Seen: Raster Occlusion and Geometric Visibility_. [Maxim Spur](https://www.umr-lastig.fr/members/Maxim-Spur/) and [Gérald Choqueux](https://www.umr-lastig.fr/members/G%C3%A9rald-Choqueux/), GEOVIS team.
 
 ## 🕤 Schedule
 Questions & Answers will be possible after every talk. No worries.
