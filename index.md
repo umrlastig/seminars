@@ -26,7 +26,7 @@ The LASTIG has been working on this field for a long time among its four researc
 ## ⚙ Technical talks
 
 *  _Coming soon_. [Pierre Aumond (UMRAE)](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond), for STRUDEL team.
-*   _Coming soon_. [Bruno Vallet](https://www.umr-lastig.fr/bruno-vallet/), ACTE team.
+*   _Assessing the sensibility of intervisibility on the quality of 3D geometry_. [Bruno Vallet](https://www.umr-lastig.fr/bruno-vallet/), ACTE team.
 *   _Coming soon_. [Laurence Jolivet](https://www.umr-lastig.fr/members/Laurence-Jolivet/) and [Cécile Duchêne]([https://whuwuteng.github.io/](https://www.umr-lastig.fr/members/C%C3%A9cile-Duch%C3%AAne/)), MEIG team.
 *   _What Can Be Seen: Raster Occlusion and Geometric Visibility_. [Maxim Spur](https://www.umr-lastig.fr/members/Maxim-Spur/) and [Gérald Choqueux](https://www.umr-lastig.fr/members/G%C3%A9rald-Choqueux/), GEOVIS team.
 
