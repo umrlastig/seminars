@@ -9,60 +9,60 @@ We propose every 2 or 3 months seminars that gather **guest keynotes** and prese
 Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at dir-lastig_(at)_ign_(dot)_fr.
 
 <a id="news"></a>
-# September 12, 2025: _Uncertainty and risks_
-
-![Semantics](documents/adrien.jpg) ![Flooding](documents/octave.jpg) ![Localization](documents/mattia.jpg)![Disparity](documents/teng.jpg)
-
-The recent years have witnessed a tremedous **change of paradigm**, with a deluge of multi-modal geospatial data (images, text, in-situ measurements, model outputs, etc.). Each modality comes with its own noise level and uncertainty, which should be quantified for numerous application cases. 
-This is all the more true for topics with **high stake** such as infrastructure monitoring, natural hazards or sustainable mobility.
-This seminar targets to **address both subjects, sometimes interwinned**, in order to emphasize the numerous facets of uncertainty and the necessarity of tacking such topics for key environmental use cases.
+# October 8, 2026: _Intervisibility_
+<p align="center">
+<img src="documents/adrien.jpg" height="170" />   <img src="documents/subdense.png" height="170" /><img src="documents/yanis.png" height="150" />
+</p>
+_Rationale_ <br>
+Determining whether a target is visible or what a scene looks like from a remote point of view has been a long standing challenge in photogrammetry, remote sensing and geographical information sciences for numerous purposes from survey planning to 3D geovisualisation platforms. 
+The LASTIG has been working on the field of **intervisibility** for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar gathers international experts of the field and current developments in our lab.  
 
 ## 👑 Keynote speaker
 
-<img src="documents/abursuc.jpg" width="110" />
-> [Andrei Bursuc](https://abursuc.github.io/), valeo.ai
+<img src="documents/vincentlepetit.png" width="110" />
+> [Vincent Lepetit](https://vincentlepetit.github.io/), Ecole des Ponts ParisTech, France
 >
-> **Reliability in the Age of Foundation Models**.
+> **Title coming soon**.
 
 ## ⚙ Technical talks
 
-*   _Visualiser des données entachées d'incertitude. Application au risque de submersion côtière_. [Jacques Gautier](https://www.umr-lastig.fr/jacques-gautier/), GEOVIS team.
-*   _Propagation d'incertitudes pour la construction d'itinéraires résilients_. [Arnaud Le Guilcher](https://www.umr-lastig.fr/aleguilcher_homepage/), MEIG team.
-*   _''Uncertainties and risks'' in the STRUDEL team : an overview of existing works_. [Alexandre Hipper-Ferrer](https://ahippert.github.io/), STRUDEL team.
-*    _Suivi de déformation d'ouvrages d'art_. [Jean-Michael Muller](https://www.umr-lastig.fr/jmmuller_lastig_homepage/), ACTE team.
+*  _Intervisibilité (ou Interaudibilité) en acoustique environnementale_. [Pierre Aumond (UMRAE)](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond), for STRUDEL team.
+*   _Assessing the sensibility of intervisibility on the quality of 3D geometry_. [Bruno Vallet](https://www.umr-lastig.fr/bruno-vallet/), ACTE team.
+*   _From where can a mountain lake be seen? Summary of students projects around passive viewshed computation_. [Laurence Jolivet](https://www.umr-lastig.fr/members/Laurence-Jolivet/) and [Cécile Duchêne]([https://whuwuteng.github.io/](https://www.umr-lastig.fr/members/C%C3%A9cile-Duch%C3%AAne/)), MEIG team.
+*   _What Can Be Seen: Raster Occlusion and Geometric Visibility_. [Maxim Spur](https://www.umr-lastig.fr/members/Maxim-Spur/) and [Gérald Choqueux](https://www.umr-lastig.fr/members/G%C3%A9rald-Choqueux/), GEOVIS team.
 
 ## 🕤 Schedule
 Questions & Answers will be possible after every talk. No worries.
 
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
-| 9:15           | Welcome by Clément Mallet (head of LASTIG)|[pdf](documents/SemThematique_LASTIG_Mallet_12092025.pdf)  |
-| 9:30           | Andrei Bursuc (Valeo.ai) |[pdf](documents/SemThematique_LASTIG_Bursuc_12092025.pdf)   |
-| 10:20 | Jacques Gautier (LASTIG)   | [pdf](documents/SemThematique_LASTIG_Gautier_12092025.pdf)  |
-| 10:50   | Arnaud Le Guilcher (LASTIG)      | [pdf](documents/SemThematique_LASTIG_LeGuilcher_12092025.pdf)   |
-| 11:20 | Alexandre Hipper-Ferrer (LASTIG) | [pdf](documents/SemThematique_LASTIG_HippertFerrer_12092025.pdf)  |
-| 11:50 | Jean-Michael Muller (LASTIG)   | TBD  |
+| 9:15  |Bruno Vallet| --   |
+| 9:30  | Vincent Lepetit | --   | 
+| 10:30  |Pierre Aumond  |--   |
+| 11:00 | Bruno Vallet   | --   |
+| 11:20 | Laurence Jolivet & Cécile Duchêne  | --     |
+| 11:40 |Maxim Spur & Gérald Choqueux | --   |
 
 * * *
 
 ### ☝ Registration
-Registration is mandatory, free of charge and can be done through this link.
-Deadline is **September 8, 2025**.
-> [Link to the form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=EP0g8syDRUiFYPEzSGxLGHWNCXfhXVBFqi4ThU2Xe5FUNDIySDRZQzA4M002OEU1MDlNRlA4MVRGUy4u).
+Registration is mandatory, free of charge and will be possible through the link provided below.
+Deadline is **October 1, 2026**.
+> [Link to the form](https://forms.office.com/e/DWkysXvvfx?origin=lprLink).
 
 Be sure we won't do anything with your email address but sending you information about our seminars.
 
 ### 🎯 How to join us ?
 
 #### On-site
-The seminar will take place in [ENSG-Géomatique](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
+The seminar will take place in [Géodata Paris (ex.ENSG-Géomatique)](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
 
 The exact location is **Picard** room:
  - Level -1 from the main stairs in the central hall;
  - Left door and just follow the signs. 
 
 
-#### Remotely
+#### <u>Remotely</u>
 A zoom link will be sent to your registered email a couple of days prior to the event, assuming you registered in due time.
 
 * * *

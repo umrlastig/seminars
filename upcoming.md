@@ -8,12 +8,10 @@ description: All details on the upcoming LASTIG seminars, content to be regularl
 
 All information about past LASTIG seminars is provided here.
 
-## November 2025: _Land-cover_
 
-Schedule and speakers will be provided later this year.
+## Dec 2026 or January 2027: _Alumni_
 
-## January 2026: _Intervisibility_
-
+Former members of the lab, spread all over the world will participate.
 Schedule and speakers will be provided later this year.
 
 [back](./)
