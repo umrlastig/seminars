@@ -11,7 +11,7 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 <a id="news"></a>
 # October 8, 2026: _Intervisibility_
 <p align="center">
-<img src="documents/aumont.png" height="170" />   <img src="documents/duchenejolivet.png" height="170" /> <img src="documents/darshan.png" height="166" />
+<img src="documents/aumont.png" height="170" />   <img src="documents/duchenejolivet.png" height="170" /> <img src="documents/darshan.png" height="168" />
 </p>
 ## Rationale
 Determining whether a target is visible or what a scene looks like from a remote point of view has been a long standing challenge in photogrammetry, remote sensing and geographical information sciences for numerous purposes from survey planning to 3D geovisualisation platforms. <br>
