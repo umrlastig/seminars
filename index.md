@@ -13,8 +13,8 @@ Our seminars are **hybrid, free, open to everyone**, assuming you are preliminar
 <p align="center">
 <img src="documents/aumont.jpg" height="170" />   <img src="documents/duchenejolivet.png" height="170" /><img src="documents/darshan.png" height="150" />
 </p>
-_Rationale_ <br>
-Determining whether a target is visible or what a scene looks like from a remote point of view has been a long standing challenge in photogrammetry, remote sensing and geographical information sciences for numerous purposes from survey planning to 3D geovisualisation platforms. 
+## Rationale
+Determining whether a target is visible or what a scene looks like from a remote point of view has been a long standing challenge in photogrammetry, remote sensing and geographical information sciences for numerous purposes from survey planning to 3D geovisualisation platforms. <br>
 The LASTIG has been working on the field of **intervisibility** for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar gathers international experts of the field and current developments in our lab.  
 
 ## 👑 Keynote speaker
