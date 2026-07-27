@@ -9,12 +9,13 @@ We propose every 2 or 3 months seminars that gather **guest keynotes** and prese
 Our seminars are **hybrid, free, open to everyone**, assuming you are preliminarly registered. In case of questions, feel free to reach us at dir-lastig_(at)_ign_(dot)_fr.
 
 <a id="news"></a>
-# September 2026: _Intervisibility_
+# October 8, 2026: _Intervisibility_
 <p align="center">
 <img src="documents/adrien.jpg" height="170" />   <img src="documents/subdense.png" height="170" /><img src="documents/yanis.png" height="150" />
 </p>
 _Rationale_ <br>
-The LASTIG has been working on this field for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar gathers international experts of the field and current developments in our lab.  
+Determining whether a target is visible or what a scene looks like from a remote point of view has been a long standing challenge in photogrammetry, remote sensing and geographical information sciences for numerous purposes from survey planning to 3D geovisualisation platforms. 
+The LASTIG has been working on the field oof *intervisibility* for a long time among its four research teams. In order to break the existing silos between communities and show the current state of the art, this seminar gathers international experts of the field and current developments in our lab.  
 
 ## 👑 Keynote speaker
 
@@ -25,9 +26,9 @@ The LASTIG has been working on this field for a long time among its four researc
 
 ## ⚙ Technical talks
 
-*  _Coming soon_. [Pierre Aumond (UMRAE)](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond), for STRUDEL team.
+*  _Intervisibilité (ou Interaudibilité) en acoustique environnementale_. [Pierre Aumond (UMRAE)](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond), for STRUDEL team.
 *   _Assessing the sensibility of intervisibility on the quality of 3D geometry_. [Bruno Vallet](https://www.umr-lastig.fr/bruno-vallet/), ACTE team.
-*   _Coming soon_. [Laurence Jolivet](https://www.umr-lastig.fr/members/Laurence-Jolivet/) and [Cécile Duchêne]([https://whuwuteng.github.io/](https://www.umr-lastig.fr/members/C%C3%A9cile-Duch%C3%AAne/)), MEIG team.
+*   _From where can a mountain lake be seen? Summary of students projects around passive viewshed computation_. [Laurence Jolivet](https://www.umr-lastig.fr/members/Laurence-Jolivet/) and [Cécile Duchêne]([https://whuwuteng.github.io/](https://www.umr-lastig.fr/members/C%C3%A9cile-Duch%C3%AAne/)), MEIG team.
 *   _What Can Be Seen: Raster Occlusion and Geometric Visibility_. [Maxim Spur](https://www.umr-lastig.fr/members/Maxim-Spur/) and [Gérald Choqueux](https://www.umr-lastig.fr/members/G%C3%A9rald-Choqueux/), GEOVIS team.
 
 ## 🕤 Schedule
@@ -46,7 +47,7 @@ Questions & Answers will be possible after every talk. No worries.
 
 ### ☝ Registration
 Registration is mandatory, free of charge and will be possible through the link provided below.
-Deadline is **September 12, 2025**.
+Deadline is **October 1, 2026**.
 > [Link to the form](https://forms.office.com/e/DWkysXvvfx?origin=lprLink).
 
 Be sure we won't do anything with your email address but sending you information about our seminars.
