@@ -36,12 +36,12 @@ Questions & Answers will be possible after every talk. No worries.
 
 | Time        | Speaker          | Slides |
 |:-------------|:------------------|:------|
-| 9:15  |Bruno Vallet| --   |
-| 9:30  | Vincent Lepetit | --   | 
-| 10:30  |Pierre Aumond  |--   |
-| 11:00 | Bruno Vallet   | --   |
-| 11:20 | Laurence Jolivet & Cécile Duchêne  | --     |
-| 11:40 |Maxim Spur & Gérald Choqueux | --   |
+| 14:00  |Bruno Vallet| --   |
+| 14:15  | Vincent Lepetit | --   | 
+| 15:15  |Pierre Aumond  |--   |
+| 15:45 | Bruno Vallet   | --   |
+| 16:05 | Laurence Jolivet & Cécile Duchêne  | --     |
+| 16:25 |Maxim Spur & Gérald Choqueux | --   |
 
 * * *
 
