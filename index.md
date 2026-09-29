@@ -47,7 +47,7 @@ Questions & Answers will be possible after every talk. No worries.
 
 ### ☝ Registration
 Registration is mandatory, free of charge and will be possible through the link provided below.
-Deadline is **October 1, 2026**.
+Deadline is **October 6, 2026**.
 > [Link to the form](https://forms.office.com/e/DWkysXvvfx?origin=lprLink).
 
 Be sure we won't do anything with your email address but sending you information about our seminars.
@@ -57,13 +57,13 @@ Be sure we won't do anything with your email address but sending you information
 #### On-site
 The seminar will take place in [Géodata Paris (ex.ENSG-Géomatique)](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
 
-The exact location is **Picard** room:
- - Level -1 from the main stairs in the central hall;
- - Left door and just follow the signs. 
+The exact location is **M208** room:
+ - Level +2 - Maupertius aisle
+ - Follow the signs. 
 
 
 #### <u>Remotely</u>
-A zoom link will be sent to your registered email a couple of days prior to the event, assuming you registered in due time.
+A visio link will be sent to your registered email the day before the event, assuming you registered in due time.
 
 * * *
 
