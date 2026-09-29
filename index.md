@@ -22,7 +22,7 @@ The LASTIG has been working on the field of **intervisibility** for a long time 
 <img src="documents/vincentlepetit.png" width="110" />
 > [Vincent Lepetit](https://vincentlepetit.github.io/), Ecole des Ponts ParisTech, France
 >
-> **Title coming soon**.
+> **Efficient Active Mapping of Large and Dynamic Scenes**.
 
 ## ⚙ Technical talks
 
