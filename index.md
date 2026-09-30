@@ -57,7 +57,7 @@ Be sure we won't do anything with your email address but sending you information
 #### On-site
 The seminar will take place in [Géodata Paris (ex.ENSG-Géomatique)](https://ensg.eu/fr), Champs-sur-Marne. It is 5-minute walk for Noisy-Champs station ([RER A](https://www.ratp.fr/plans-lignes/rer/a)). More details are available **[here](https://ensg.eu/en/node/62)**.
 
-The exact location is **M208** room:
+The exact location is **M209** room:
  - Level +2 - Maupertius aisle
  - Follow the signs. 
 
