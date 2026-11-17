@@ -9,6 +9,9 @@ description: All details on the past LASTIG seminars, content to be improved !
 All information about past LASTIG seminars is provided here.
 
 ### October 6, 2026: _Intervisibility_
+<p align="center">
+<img src="documents/aumont.png" height="170" />   <img src="documents/duchenejolivet.png" height="170" /> <img src="documents/darshan.png" height="168" />
+</p>
 
 | Time      | Speaker         | Title | Slides |
 |:-------------|:------------------|:------|:------|
