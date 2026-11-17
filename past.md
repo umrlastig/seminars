@@ -20,7 +20,7 @@ All information about past LASTIG seminars is provided here.
 | 15:15  | Pierre Aumond (UMRAE)  |Intervisibilité (ou Interaudibilité) en acoustique environnementale|[pdf](documents/SemThematique_LASTIG_Aumond_06112026.pdf)   |
 | 15:45 | Bruno Vallet (LASTIG)   |Assessing the Sensibility of Intervisibility on the Quality of 3D Geometry| [pdf](documents/SemThematique_LASTIG_Vallet06112026.pdf)   |
 | 16:05 | Laurence Jolivet & Cécile Duchêne (LASTIG)      |From where can a mountain lake be seen? | [pdf](documents/SemThematique_LASTIG_Jolivet-Duchene_06112026.pdf)     |
-| 10:50 | Maxim Spur (LASTIG) |What Can Be Seen: Raster Occlusion and Geometric Visibility| [pdf](documents/SemThematique_LASTIG_Spur06112026.pdf)   |
+| 10:50 | Maxim Spur (LASTIG) |What Can Be Seen: Raster Occlusion and Geometric Visibility| [pdf](documents/SemThematique_LASTIG_Spur06112026.pdf) and [demo](https://www.umr-lastig.fr/maxim-spur/visibility-lab.html)  |
 
 ### January 16, 2026: _Monitoring a dynamic world_
 
